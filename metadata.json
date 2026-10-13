@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AeroFlow – Intelligent Airport Operations Management System",
+  "description": "Comprehensive airport operations platform featuring flight scheduling, gate allocation, passenger \u0026 baggage tracking, seat booking, multi-threaded concurrency simulation, and Spring Boot OOP architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
